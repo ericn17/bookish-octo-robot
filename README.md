@@ -11,7 +11,6 @@
   * [License](#license)
     
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   
   ## [Description](#table-of-contents)
@@ -39,8 +38,6 @@ npm i mysql2
   
   I will not accept contribution from third-parties at this time. Thank you.
     
-  ## [Tests](#table-of-contents)
-  Run "node server.js" in the terminal and scroll through the options to make changes according to your needs.
   ## [Questions](#table-of-contents)
   Please contact me using the following links:
   
